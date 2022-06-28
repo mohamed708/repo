@@ -2,12 +2,23 @@
     {
         "name":"Mohamed",
         "id":549,
-        "Job_Title":"Web developer"
+        "job_title":"Web developer",
+        "phone_number":45842555.
+        "email":"mohamed@json.com"
     },
     {
         "name":"Adel",
         "id":125,
-        "Job_Title":"Web Pentester"
+        "tob_title":"Web Pentester",
+        "phone_number":58642687,
+        "email":"adel@json.com"
+    },
+    {
+        "name":"Ahmed",
+        "id":548,
+        "job_title":"Frontend Developer",
+        "phone_number":53249873,
+        "email":"ahmed@json.com"
     }
 
 ]
